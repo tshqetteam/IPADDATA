@@ -1,4 +1,4 @@
-### ADHOC SESSION - MEET NOW ###
+ADHOC SESSION - MEET NOW
             self.meet_now_participant_name = "Prospect Autotest Robert Ayers"
             self.meet_now_on_time_url = "https://tsh.onelink.me/fkK9/dc737c8e?forceTime=2021-09-29T03:30:00.000Z&ticket=a0sxhmUvliu7aPIl3FnIX-" \
                                         "xcL1VwKLmG9H-FgDO81YqWTAN5lSh7bU0LOF-TkfNK"
@@ -68,7 +68,6 @@
             self.mt_class_participant_list = ["Prospect Autotest Ryan Hays", "Prospect Autotest Michelle Hutchinson",
                                               "Prospect Autotest Brenda Lindsey",
                                               "Prospect Autotest Jennifer Hansen", "Prospect Autotest Jay Ward", "Prospect Autotest Brian Martinez"]
-                                              
                                               
                                               
 https://tsh.onelink.me/fkK9/dc737c8e?ticket=pWGLnQTwwclbv-ibke4zZsgBLHE8lJn0uATWP_CSwFdf5XZZfjFAVkSwiACEqS-o&forceTime=2030-04-27T09:00:00.000Z
